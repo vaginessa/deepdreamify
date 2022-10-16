@@ -1,4 +1,4 @@
-ipython==1.2.1
+ipython==7.16.3
 numpy==1.9.2
 protobuf==2.6.1
 pycurl==7.19.3
